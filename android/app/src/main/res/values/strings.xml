@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">powerapp</string>
+  <string name="facebook_app_id">163066635666966</string>
+  <string name="fb_login_protocol_scheme">fb163066635666966</string>
+
+</resources>
